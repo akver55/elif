@@ -35,7 +35,7 @@ elif race == "e":
     race = "elf"
 else:
     print(
-        "You didn't give correct character's gender, you can't proceed playing this game, sorry!"
+        "You didn't give correct character's race, you can't proceed playing this game, sorry!"
     )
     sleep(1)
     exit()
