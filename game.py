@@ -65,7 +65,7 @@ if race == "human":
 
     print(f"You've selected {role} class\n")
 
-# нам необязательно использовать elif или els
+# нам необязательно использовать elif или else
 # просто напросто блок if или выполнется или не выполнется, да, можно и так поступать, выглядит аккуратно
 if race == "elf":
     print(
@@ -93,5 +93,5 @@ if race == "elf":
 name = str(input("Enter character's name: "))
 
 print(
-    f"\nCharacter's info:\ngender: {gender}\nrace: {race}\nclass: {role}\nname: {name}"
+    f"\n***Character's info***\ngender: {gender}\nrace: {race}\nclass: {role}\nname: {name}"
 )
