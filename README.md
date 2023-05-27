@@ -10,4 +10,7 @@ So far you can:
 - Select race of your character (so far can select Human or Elf)
 - Choose a role for you character (Warriors, archers, sorceries and some more...)
 
+### Additional Info:
+This code is not supposed to use classes, user-defined functions, switch/case, etc. Just if/elif/else -> learning purpose restrictions
+
 ### That's it :D
